@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>ae.gif</file>
+    </qresource>
+    <qresource prefix="/bd"/>
+    <qresource prefix="/bd" lang="sql"/>
+    <qresource prefix="/db" lang="sql">
+        <file>script.sql</file>
+    </qresource>
+    <qresource prefix="/db"/>
+</RCC>
